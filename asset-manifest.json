@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-test-like-post/static/css/main.f5c0ffa4.css",
+    "main.js": "/react-test-like-post/static/js/main.26d603cd.js",
+    "static/media/8.png": "/react-test-like-post/static/media/8.20424ba2f4077f73cebd.png",
+    "static/media/4.jpg": "/react-test-like-post/static/media/4.13aa95554633dea1211a.jpg",
+    "static/media/2.jpg": "/react-test-like-post/static/media/2.64a0922c6893fb9dd49b.jpg",
+    "static/media/5.jpg": "/react-test-like-post/static/media/5.4fc395d30fa96378fb58.jpg",
+    "static/media/3.jpg": "/react-test-like-post/static/media/3.bc7fa3ae5cef3d9a6b64.jpg",
+    "static/media/7.jpg": "/react-test-like-post/static/media/7.5486d202ce1e4ccd632c.jpg",
+    "static/media/6.jpg": "/react-test-like-post/static/media/6.4ff59296565181cce3f5.jpg",
+    "static/media/1.jpg": "/react-test-like-post/static/media/1.e3249eb9edf676086a8d.jpg",
+    "index.html": "/react-test-like-post/index.html",
+    "main.f5c0ffa4.css.map": "/react-test-like-post/static/css/main.f5c0ffa4.css.map",
+    "main.26d603cd.js.map": "/react-test-like-post/static/js/main.26d603cd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f5c0ffa4.css",
+    "static/js/main.26d603cd.js"
+  ]
+}

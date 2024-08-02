@@ -1,0 +1,28 @@
+.video {
+    width: 15rem;
+    text-align: left;
+    border: 1px solid black;
+    border-radius: 20px;
+    padding: 0.5rem;
+    background-color: rgb(145, 231, 227);
+  }
+  
+  .video-img {
+    width: 30%;
+    margin: 0 auto;
+  }
+  
+  .video p {
+    margin: 0 0 0.5rem;
+  }
+  
+  .video-footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .buttonLike {
+    background-color: rgb(24, 22, 22);
+    color: white;
+  }
